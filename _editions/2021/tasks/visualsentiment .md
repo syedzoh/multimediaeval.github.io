@@ -45,11 +45,11 @@ All the tasks will be evaluated using standard classification metrics, where F1-
 #### References and recommended reading
 <!-- # Please use the ACM format for references https://www.acm.org/publications/authors/reference-formatting (but no DOI needed)-->
 <!-- # The paper title should be a hyperlink leading to the paper online-->
-[1] Hassan, Syed Zohaib, et al. "Visual Sentiment Analysis from Disaster Images in Social Media." arXiv preprint arXiv:2009.03051 (2020).
+[1] [Hassan, Syed Zohaib, et al. "Visual Sentiment Analysis from Disaster Images in Social Media." arXiv preprint arXiv:2009.03051 (2020)](https://www.researchgate.net/publication/344157937_Visual_Sentiment_Analysis_from_Disaster_Images_in_Social_Media).
 
-[2] Hassan, Syed Zohaib, et al. "Sentiment analysis from images of natural disasters." International Conference on Image Analysis and Processing. Springer, Cham, 2019. 
+[2] [Hassan, Syed Zohaib, et al. "Sentiment analysis from images of natural disasters." International Conference on Image Analysis and Processing. Springer, Cham, 2019](https://link.springer.com/book/10.1007/978-3-030-30645-8). 
 
-[3] Ortis, Alessandro, Giovanni Maria Farinella, and Sebastiano Battiato. "Survey on visual sentiment analysis." IET Image Processing 14.8 (2020): 1440-1456.
+[3] [Ortis, Alessandro, Giovanni Maria Farinella, and Sebastiano Battiato. "Survey on visual sentiment analysis." IET Image Processing 14.8 (2020): 1440-1456](https://arxiv.org/abs/2004.11639).
 
 #### Task organizers
 * Kashif Ahmad, kahmad (at) hbku.edu.qa, Hamad Bin Khalifa University, Doha, Qatar
